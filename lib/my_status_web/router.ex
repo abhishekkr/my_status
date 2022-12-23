@@ -18,6 +18,8 @@ defmodule MyStatusWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+
+    live "/service", ServiceLive
   end
 
   # Other scopes may use custom stacks.

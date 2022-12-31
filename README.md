@@ -2,6 +2,8 @@
 
 > It's a simple sample web app created in Phoenix with purpose to learn & teach Phoenix Framework and LiveView workings.
 
+*This was created as part of a Phoenix LiveView tutorial series, available [here](https://abhishekkr.github.io/blog.html#/blogs/2022-12-31-elixir-phoenix-liveview-getting-started.md).*
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
